@@ -1,0 +1,12 @@
+1/31/2022 12:52:32 PM : Scanning Output Thread: D:\Optum\DataInputA\
+1/31/2022 12:52:32 PM : Number of jobs found: 1
+1/31/2022 12:52:32 PM : Thread is already occupied, due to which no job is moved.
+1/31/2022 12:52:32 PM : Scanning Output Thread: D:\Optum\DataInputB\
+1/31/2022 12:52:32 PM : Number of jobs found: 1
+1/31/2022 12:52:32 PM : Thread is already occupied, due to which no job is moved.
+1/31/2022 12:52:32 PM : Scanning Output Thread: D:\Optum\DataInputC\
+1/31/2022 12:52:32 PM : Number of jobs found: 1
+1/31/2022 12:52:32 PM : Thread is already occupied, due to which no job is moved.
+1/31/2022 12:52:32 PM : Scanning Output Thread: D:\Optum\DataInputD\
+1/31/2022 12:52:32 PM : Number of jobs found: 1
+1/31/2022 12:52:32 PM : Thread is already occupied, due to which no job is moved.

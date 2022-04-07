@@ -1,0 +1,5 @@
+D:\OCS_Optum_QE_FileDist\OCS_Optum_QE_FileDist\bin\Release\OCS_Optum_QE_FileDist.exe.config
+D:\OCS_Optum_QE_FileDist\OCS_Optum_QE_FileDist\bin\Release\OCS_Optum_QE_FileDist.exe
+D:\OCS_Optum_QE_FileDist\OCS_Optum_QE_FileDist\bin\Release\OCS_Optum_QE_FileDist.pdb
+D:\OCS_Optum_QE_FileDist\OCS_Optum_QE_FileDist\obj\Release\OCS_Optum_QE_FileDist.exe
+D:\OCS_Optum_QE_FileDist\OCS_Optum_QE_FileDist\obj\Release\OCS_Optum_QE_FileDist.pdb

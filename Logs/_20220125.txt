@@ -1,0 +1,170 @@
+1/25/2022 2:37:35 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 2:37:35 AM : Number of jobs found: 0
+1/25/2022 2:37:35 AM : Directory job118_1 moved from D:\Optum\DataInput\job118_1 to D:\Optum\DataInputA\job118_1
+1/25/2022 2:37:35 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 2:37:35 AM : Number of jobs found: 0
+1/25/2022 2:37:35 AM : Directory job118_2 moved from D:\Optum\DataInput\job118_2 to D:\Optum\DataInputB\job118_2
+1/25/2022 2:37:35 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 2:37:35 AM : Number of jobs found: 0
+1/25/2022 2:37:35 AM : Directory job118_3 moved from D:\Optum\DataInput\job118_3 to D:\Optum\DataInputC\job118_3
+1/25/2022 2:37:35 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 2:37:35 AM : Number of jobs found: 0
+1/25/2022 2:37:35 AM : Directory job119_1 moved from D:\Optum\DataInput\job119_1 to D:\Optum\DataInputD\job119_1
+1/25/2022 2:39:37 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 2:39:37 AM : Number of jobs found: 1
+1/25/2022 2:39:37 AM : Number of jobs moved: 1
+1/25/2022 2:39:37 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 2:39:37 AM : Number of jobs found: 1
+1/25/2022 2:39:37 AM : Number of jobs moved: 1
+1/25/2022 2:39:37 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 2:39:37 AM : Number of jobs found: 1
+1/25/2022 2:39:37 AM : Number of jobs moved: 1
+1/25/2022 2:39:37 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 2:39:37 AM : Number of jobs found: 1
+1/25/2022 2:39:37 AM : Number of jobs moved: 1
+1/25/2022 2:43:14 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 2:43:14 AM : Number of jobs found: 1
+1/25/2022 2:43:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:43:14 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 2:43:14 AM : Number of jobs found: 1
+1/25/2022 2:43:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:43:14 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 2:43:14 AM : Number of jobs found: 1
+1/25/2022 2:43:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:43:14 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 2:43:14 AM : Number of jobs found: 1
+1/25/2022 2:43:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:45:15 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 2:45:15 AM : Number of jobs found: 1
+1/25/2022 2:45:15 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:45:15 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 2:45:15 AM : Number of jobs found: 0
+1/25/2022 2:45:15 AM : Directory job119_2 moved from D:\Optum\DataInput\job119_2 to D:\Optum\DataInputB\job119_2
+1/25/2022 2:45:15 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 2:45:15 AM : Number of jobs found: 1
+1/25/2022 2:45:15 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 2:45:15 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 2:45:15 AM : Number of jobs found: 1
+1/25/2022 2:45:15 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 4:48:40 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 4:48:40 AM : Number of jobs found: 0
+1/25/2022 4:48:40 AM : Directory job118_1 moved from D:\Optum\DataInput\job118_1 to D:\Optum\DataInputA\job118_1
+1/25/2022 4:48:40 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 4:48:40 AM : Number of jobs found: 0
+1/25/2022 4:48:40 AM : Directory job118_2 moved from D:\Optum\DataInput\job118_2 to D:\Optum\DataInputB\job118_2
+1/25/2022 4:48:40 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 4:48:40 AM : Number of jobs found: 0
+1/25/2022 4:48:40 AM : Directory job118_3 moved from D:\Optum\DataInput\job118_3 to D:\Optum\DataInputC\job118_3
+1/25/2022 4:48:40 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 4:48:41 AM : Number of jobs found: 0
+1/25/2022 4:48:41 AM : Directory job119_1 moved from D:\Optum\DataInput\job119_1 to D:\Optum\DataInputD\job119_1
+1/25/2022 4:58:04 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 4:58:04 AM : Number of jobs found: 0
+1/25/2022 4:58:04 AM : Directory job118_1 moved from D:\Optum\DataInput\job118_1 to D:\Optum\DataInputA\job118_1
+1/25/2022 4:58:04 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 4:58:04 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 4:58:04 AM : Number of jobs found: 0
+1/25/2022 4:58:04 AM : Directory job118_2 moved from D:\Optum\DataInput\job118_2 to D:\Optum\DataInputB\job118_2
+1/25/2022 4:58:04 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 4:58:04 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 4:58:04 AM : Number of jobs found: 0
+1/25/2022 4:58:04 AM : Directory job118_3 moved from D:\Optum\DataInput\job118_3 to D:\Optum\DataInputC\job118_3
+1/25/2022 4:58:04 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 4:58:04 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 4:58:04 AM : Number of jobs found: 0
+1/25/2022 4:58:04 AM : Directory job119_1 moved from D:\Optum\DataInput\job119_1 to D:\Optum\DataInputD\job119_1
+1/25/2022 4:58:04 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 5:02:49 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 5:02:49 AM : Number of jobs found: 1
+1/25/2022 5:02:49 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 5:02:49 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 5:02:49 AM : Number of jobs found: 1
+1/25/2022 5:02:49 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 5:02:49 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 5:02:49 AM : Number of jobs found: 1
+1/25/2022 5:02:49 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 5:02:49 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 5:02:49 AM : Number of jobs found: 1
+1/25/2022 5:02:49 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 5:29:57 AM : There are no Jobs to move
+1/25/2022 5:30:30 AM : There are no Jobs to move
+1/25/2022 5:39:02 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 5:39:02 AM : Number of jobs found: 0
+1/25/2022 5:39:02 AM : Directory job118_1 moved from D:\Optum\DataInput\job118_1 to D:\Optum\DataInputA\job118_1
+1/25/2022 5:39:03 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 5:39:03 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 5:39:03 AM : Number of jobs found: 0
+1/25/2022 5:39:03 AM : Directory job118_2 moved from D:\Optum\DataInput\job118_2 to D:\Optum\DataInputB\job118_2
+1/25/2022 5:39:03 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 5:39:03 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 5:39:03 AM : Number of jobs found: 0
+1/25/2022 5:39:03 AM : Directory job118_3 moved from D:\Optum\DataInput\job118_3 to D:\Optum\DataInputC\job118_3
+1/25/2022 5:39:03 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 5:39:03 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 5:39:03 AM : Number of jobs found: 1
+1/25/2022 5:39:03 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:06:34 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 7:06:34 AM : Number of jobs found: 0
+1/25/2022 7:06:34 AM : Directory job119_1 moved from D:\Optum\DataInput\job119_1 to D:\Optum\DataInputA\job119_1
+1/25/2022 7:06:35 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:06:35 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 7:06:35 AM : Number of jobs found: 0
+1/25/2022 7:06:35 AM : Directory job119_2 moved from D:\Optum\DataInput\job119_2 to D:\Optum\DataInputB\job119_2
+1/25/2022 7:06:35 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:06:35 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 7:06:35 AM : Number of jobs found: 0
+1/25/2022 7:06:35 AM : Directory job119_3 moved from D:\Optum\DataInput\job119_3 to D:\Optum\DataInputC\job119_3
+1/25/2022 7:06:35 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:06:35 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 7:06:35 AM : Number of jobs found: 1
+1/25/2022 7:06:35 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:09:15 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 7:09:15 AM : Number of jobs found: 1
+1/25/2022 7:09:15 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:09:15 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 7:09:15 AM : Number of jobs found: 0
+1/25/2022 7:09:15 AM : Directory job119_4 moved from D:\Optum\DataInput\job119_4 to D:\Optum\DataInputB\job119_4
+1/25/2022 7:09:15 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:09:15 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 7:09:15 AM : Number of jobs found: 1
+1/25/2022 7:09:15 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:09:15 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 7:09:15 AM : Number of jobs found: 0
+1/25/2022 7:09:15 AM : Directory job120_1 moved from D:\Optum\DataInput\job120_1 to D:\Optum\DataInputD\job120_1
+1/25/2022 7:09:15 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:21:36 AM : Error Info : Value cannot be null.
+Parameter name: String
+1/25/2022 7:22:43 AM : Error Info : Value cannot be null.
+Parameter name: String
+1/25/2022 7:25:27 AM : Error Info : Value cannot be null.
+Parameter name: String
+1/25/2022 7:25:51 AM : Error Info : Value cannot be null.
+Parameter name: String
+1/25/2022 7:29:12 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 7:29:12 AM : Number of jobs found: 0
+1/25/2022 7:29:12 AM : Directory job121_1 moved from D:\Optum\DataInput\job121_1 to D:\Optum\DataInputA\job121_1
+1/25/2022 7:29:12 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:29:12 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 7:29:12 AM : Number of jobs found: 0
+1/25/2022 7:29:12 AM : Directory job122_1 moved from D:\Optum\DataInput\job122_1 to D:\Optum\DataInputB\job122_1
+1/25/2022 7:29:12 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:29:12 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 7:29:12 AM : Number of jobs found: 0
+1/25/2022 7:29:12 AM : Directory job122_2 moved from D:\Optum\DataInput\job122_2 to D:\Optum\DataInputC\job122_2
+1/25/2022 7:29:12 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:29:12 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 7:29:12 AM : Number of jobs found: 0
+1/25/2022 7:29:12 AM : Directory job122_3 moved from D:\Optum\DataInput\job122_3 to D:\Optum\DataInputD\job122_3
+1/25/2022 7:29:12 AM : Inserted into DB Table: tblQualEngineThreads.
+1/25/2022 7:30:14 AM : Scanning Output Thread: D:\Optum\DataInputA\
+1/25/2022 7:30:14 AM : Number of jobs found: 1
+1/25/2022 7:30:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:30:14 AM : Scanning Output Thread: D:\Optum\DataInputB\
+1/25/2022 7:30:14 AM : Number of jobs found: 1
+1/25/2022 7:30:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:30:14 AM : Scanning Output Thread: D:\Optum\DataInputC\
+1/25/2022 7:30:14 AM : Number of jobs found: 1
+1/25/2022 7:30:14 AM : Thread is already occupied, due to which no job is moved.
+1/25/2022 7:30:14 AM : Scanning Output Thread: D:\Optum\DataInputD\
+1/25/2022 7:30:14 AM : Number of jobs found: 1
+1/25/2022 7:30:14 AM : Thread is already occupied, due to which no job is moved.
